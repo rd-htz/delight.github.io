@@ -1,4 +1,6 @@
-﻿Free Responsive HTML5 Bootstrap Template
+﻿Von mir
+
+Free Responsive HTML5 Bootstrap Template
 
 Delight Multi Purpose free HTML5 website template is a flat, clean and modern responsive HTML5 Bootstrap template for multi purpose use like corporate business consulting profile. This theme has a elegant modern look, very easy to customize It’s provided with an nice responsive layer slider. This theme is fully responsive build on top of Bootstrap using HTML5 CSS3.  Great for Corporate business, consulting office, Agency, portfolio and many more.  
 
